@@ -1,0 +1,12 @@
+{
+  "name": "finance-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "server": "npm run watch --prefix server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
